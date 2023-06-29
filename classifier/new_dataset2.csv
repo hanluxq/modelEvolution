@@ -1,0 +1,610 @@
+id,RequirementText,NFR
+0,The system  refresh the display every 60 .,1
+1,The   match the color of the  set forth by Department of Homeland Security,1
+2,If  the data   read On a  projection screen 90 of viewers    to read Event  Activity data from a viewing  of ,1
+3,The  shall  available during normal business . As long as the user has access to the client PC the    available 99% of the time during the first six  of .,1
+4,If projected the  must   On a  projecti screen 90 of  must   to determine that Events or Activities are ing in current time from a   of 0,1
+5,The  sh  that  can only be accessed by authorized users. The  will be  to distguish between authorized and unauthorized users   access attempts,1
+6,The  shall be intuitive and -explana. : 90 of new  shall be able to start  display of Events or Activities  90  of using  .,1
+7,The  shall respond  to keep up-to-date  in the .,1
+8,The   have a MDI form that allows for the viewing of the graph and the data .,0
+9,The system  display Events in a vertical table by time.,0
+10,The system  display the Events in a graph by time.,0
+11,The system  display Events or Activities.,0
+12,The display  have two  left 2/3 of the display is graphical right 1/3 of the display is a data table,0
+13,The data displayed in both the nodes within the graph and the rows in the table are MSEL Summary data,0
+14,The  side of the display shall be split into 2    temporal.,0
+15,The top /4 of the table will hold  that are to occur l.,0
+16,The bottom 4 of the table will hold  that occur according to its relevance to current time.,0
+17,The system  color code   to  variance from  time.,0
+18,The system  display data from the Sync Matrix 1.0 and Exercise Management Tool 1.0 applications,0
+19,The system  link Events back  either the Sync Matrix 1.0 or the Exercise Managment Tool 1.0 applications for modifications.,0
+20,The   allow modification of the .,0
+21,The   offer a display of all the Events in the .,0
+22,The system  filter  by Venues and Key Events.,0
+23,The system  allow a user to define the time ,0
+24,The system  display the local and exercise time in separate ,0
+25,The   offer the ability to pause and resume the resh of .,0
+26,The system  provide charts for the Activity or Event actual versus assumed time.,0
+27,The system  provide a history report of changes made to the Activity or Event ,0
+28,The  and  of the  shall conform to the user interface standards of the  .,1
+29,The user   have standard s buttons for ,1
+30,The  shall have a professional ,1
+31,The  shall have a consistent color scheme and s.,1
+32,The   be used by realtors with no .,1
+33,The    intuitive and self explanatory.,1
+34,The  shall be easy for a realtor to .,1
+35,The  shall use symbols and words that are naturally  by the realtor .,1
+36,The   produce search results in an acceptable ,1
+37,The search   be returned no later 30 seconds after the user has entered the search ,1
+38,The  shall generate a CMA report in an acceptable .,1
+39,The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.,1
+40,The  shall oni contacts and appointments in an acceptable .,1
+41,The  shall oni with the office system every .,1
+42,The  shall be available for use 24 hours per day 365 days per year,1
+43,Out of 1000 es to the system the system  available 999 .,1
+44,The  shall operate in off mode whenever internet connection is unavailable.,1
+45,The  shall allow the user to view previously downloaded search results CMA reports and .,1
+46,The  shall retain user preferences in the event of a .,1
+47,     shall be restored when system comes back .,1
+48,The   be  to support multiple remote users,1
+49,The   be able support 1000 simultaneous users.,1
+50,The   be capable of handling the existing 1000 . This  is expected to grow 5 times within the next year.,1
+51,The  shall  installed by an trained realtor without rece to -printed .,1
+52,90% of trained real shall be  to install the product on their device   ,1
+53,The  is  to run on Windows CE and Palm operating systems.,1
+54,Only registered real shall be  to access the .,1
+55,Every  of the  shall be  and authorized.,1
+56,The  shall prevent its data from incorrect data being introduced.,1
+57,The system  allow a real estate agent to query MLS ,0
+58,The   be  to get driving directions to a  ,0
+59,The user  be  to download appointments and contact information for ,0
+60,The system  display clear property images in the search ,0
+61,The system  update or create new property listings in the MLS,0
+62,Realtor  be  to generate a CMA report based on  ,0
+63,The system  be able to call the seller or buyer to schedule an ,0
+64,The tor  be notified of new client appointments after automatic onization with office system,0
+65,The tor   able to retrieve a map showing property locations for a specified ,0
+66,The system  not the tor when a seller or buyer responds to an appointment ,0
+67,The   allow the user to save the property search .,0
+68,The   be easy to  by  Program Administrators/Nursing Staff Members.,1
+69,All of the users sh   to use the system after one day of training.,1
+70,The    the user avoid making mistakes while scheduling classes and clinicals for the nursing students.,1
+71,The  of   by  students  be decreased by 50% in  first .,1
+72,The  shall be intuitive to  Program Administrators/Nursing Staff Members.,1
+73,2 out of 3 Program Administrators/Nursing Staff Memrs     to use the system to manage the scheduling of classes and clinicals.,1
+74,The   use symbols and words that are naturally  by the user .,1
+75,The verbge used within the   be consistent with Standard English and the terminology of the national Nursing Community.,1
+76,Staff   be  to complete a set of tasks in a  .,1
+77,The response time of general student management tasks shall take no longer than 5 seconds and the response time of schedule generation shall take no longer than 30 seconds.,1
+78,The     for  tween the hours of 8am and 6.,1
+79,The   achieve 95% up time.,1
+80,    to handle all of the user requests/usage during business .,1
+81,The    to 10 simultaneous users from 9am to .,1
+82,The  shall  capable of processing 100% of nursing students and their classes for the next 10 .,1
+83,The  shall   to manage the nursing program curriculum and class/clinical scheduling for a minimum of  .,1
+84,The  shall  to operate within a business office environment typical of the Nursing Department at DePaul University.,1
+85,The   be used within the specifications  by the  used by the Program Administrators/Nursing Staff Members.,1
+86,The system shall operate within the Windows XP Professional operating system.,1
+87,The   interface with CampuConnect’ central erver,1
+88,The   interface with the faculty central .,1
+89,The   interface with the student master .,1
+90,We must be able to interface with any HTML browser.,1
+91,Only authorized  shall have access to clinical site information.,1
+92,Program AdministratorsNursing Staff Members are    who  have access to clinical site details.,1
+93,Only    have access to students’ personal information.,1
+94,Dr Susan Poslusny and Dr Julie Donalek are    who  have access to students’ personal information.,1
+95,Only   shall have access to the portion of the system that interfaces with CampusConnect.,1
+96,Fit Criterion Dr Susan Poslusny and Karen Sysol are the only people who  have  to the     for the     CampusConnect.,1
+97,The   have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.,1
+98,The   protect private information in accordance with the organization’s information .,1
+99,The   be built such that it is as secure as possible from malicious interference.,1
+100,Th   u  organization’ dard viru protction oftwar to hlp monitor thrat to itlf.,1
+101,A  shll  ssited to one Prom of Study offered by the deprtment.,0
+102,Program Administrators  Nursing Staff Members  be  to add a listing of students to a hort.,0
+103,Program Administrators  Nursing Staff Members  be  to add a single student to a rt,0
+104,Students  to a hort   eligible for the hort’s Program of Study.,0
+105,Program Administrators  Nursing Staff Members  be  to specify the preferred sequence of classes for a  hort.,0
+106,For    a sequence for a  Program Administrators  Nursing Staff Members shall be able to specify which quarter that   be offered.,0
+107,For    a sequence for a  Program Administrators  Nursing Staff Members shall be able to specify which quarter that   be offered.,0
+108,Program Administrators  Nursing Staff Members  be  to add new classes to a sequence of classes,0
+109,Program Administrators  Nursing Staff Members  be  to add clinical classes or sections to a  of classes,0
+110,Program Administrators and Nursing Staff Members  be able to add a new hort to the system identified by start month and year.,0
+111,Program Administrators  Nursing Staff Members  be  to add new classes for the nursing department into the system.,0
+112,A class  be either a non-clinical class or a clinical class.,0
+113,A non-clinical class shall specify the course name lecture room requirements and instructor needs.,0
+114,A clinical class  specify the course name lecture room requirements clinical site needs lecture instructor needs and clinical lab instructor needs.,0
+115,Program AdministratoNuing Staff Mem   able to create a new Program of Study.,0
+116,A Program of Study   of a program name and listing of required  both clinical and non-clinical that must be completed.,0
+117,Program Administrators  Nursing Staff Members  have the ability to specify which classes are required for a Program of Study,0
+118,The   be  to display a report of needed   a given quarter  all cohorts of all programs  Program Administrators/Nursing Staff Members’ planning purposes.,0
+119,The  of needed   include (but not be limited to  to be offered number of sections needed number of labs needed and room  needed.,0
+120,Classes for a  hort  not ict with regards to the time  day that they are offered.,0
+121,Program Administrators  Nursing Staff Members  be  to add a new clinical site into the system.,0
+122,Clinical site   include (but not be limited to) the name of the site contact person and contact .,0
+123,Program Administrators  Nursing Staff Memrs   able to add a new clinical lab section for an existing clinical class into the System.,0
+124,A clinical lab   include the clinical site name the class instructor day and time of the lab.,0
+125,Program Administrators  Nursing Staff Members  be able to add a student who has registered for a clinical class to a clinical lab section for that class.,0
+126,The system  allow a Program Administrator or Nursing staff member to remove a student from a clinical lab .,0
+127,The system  allow a Program Administrator/Nursing Staff Member to move a student from one clinical lab section to another clinical lab section corresponding to the same clinical .,0
+128,Program AdministratoNuing Staff Membe  be  to cancel a clinical lab section only if there are no students registered for that clinical lab section.,0
+129,A Program AdministratorNursing Staff Memr   able to add a new nursing student to the system.,0
+130,A     the ability to manage the progress of a part time student which includes modifying their sequence of classes and timeline of classes.,0
+131,The   be able to display a printable summary for individual s which will include the students enlisted the Program of study sequence of classes  progress through the program and timeline of mpletion.,0
+132,The system  be able to display a printable summary for individual clinical sites which will include information on labs being held at that site for the given quarter Clinical site  information on labs held at that       labs held there),0
+133,The ytem hall be  to diplay a  ummary for individual inical lab which will inude (but not be limited to) a name a number lab ection liting of tudent enrolled intru () time and location.,0
+134,The system  be able to display a prtable summary for divual nursg students which will clude (but not be limited to) student name student ID admission date classes credits GPA and the hort that the student is enrolled .,0
+135,The system  be able to display a able summary of the system .,0
+136,The system  contain contact information (e-mail and phone number) for all people relevant  the system including (but   )         and  site administrars.,0
+137,The   use the stored e-mail addresses as a primary means of communicating information to  .,0
+138,The system will  affected  for routine communication purposes including but  limited to informing students of upcoming offered classes (timeline) and what their schedule will be/shall be.,0
+139,The system   affected parties when changes occur affecting s  but  limited to    changes    s.,0
+140,The ytem   affected  when change occur affecting ae  but  limited to a  a ec  change and change to a   a given quarter.,0
+141,The ytem   affected partie when change occur affecting   but  limited to change to  equence for a ’  of tudy and change to a given week’ chedule (lab cancelled thi week due to intructor illne).,0
+142,The system   affected parties when changes occur affecting specific s  but  limited to changing a s   full time to part time  moving a  to a different clinical section.,0
+143,Program AdministratorsNursing Staff Members  have the ability to modify information relating to s including  identifier  of study preferred sequence of classes and quarters that a  will be taking specific classes.,0
+144,Program AdministratorsNursing Staff Members   the ability to modify information relating to a Program of Study within the Nursing Department  the Program of     classes for that Program of Study.,0
+145,Program AdministratorsNursing Staff Members  have  ability to modify information relating to a Clinical Site   clinical  name  contact person contact information and .,0
+146,Program AdministratorsNursing Staff Members  have  ability to modify information relating to a Clinical Lab S    site name  department for  lab  class instructor day and time of lab and contact information.,0
+147,Program AdministratorsNursing Staff Members   the ability to modify information relating to a Nursing Student including student ID student name phone number e-mail status (full time or part time) and  of study.,0
+148,The Disputes   comply with the corporate  for  interface creation for internally and externally used s.,1
+149,All screens created as part of the Disputes   comply with corporate  for  creation.,1
+150,The  of   that   after a search is performed must be color coded for  identification of    upon the  case status.,1
+151,100% of the cardmember and merchant   shall use the Disputes application regularly after a - training .,1
+152,100% of cardmember    be  to successfully create a dispute case on the  encounter  completing the  course.,1
+153,100% of merchant services representatives  be  to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.,1
+154,The  wait time for a user navigating from one  to anor within  Disputes  shall  no more   seconds.,1
+155,The Disputes  shall support 350 concurrent users without any degradation of performance in the .,1
+156,The Disputes    available  with the ept of the following scheduled maintenance . Monday – Saturday 3:am to 4:am EST Sunday 1:amd to :am EST,1
+157,The Disputes  sh  with the Statement Database The Statement Database provides the   to the Disputes System All    be obtained from the Statement Database,1
+158,The Disputes  shall interface with the Cardme Information Database The Cardme Information Database provides detailed  with regard to a cardme All cardme detail   be obtained from the Cardme Information Database,1
+159,The Disputes   interface with the Merchant Information Database The Merchant Information Database provides detailed information with regard to the merchant All merchant detail information  be obtained from the Merchant Information Database,1
+160,The Disputes application    the Letters application This will ow the Disputes application to request s  part of the dispute initiation and dispute follow up  All    be sent to the Print Letter Utility application,1
+161,The Dip  h  with the Card Poting and Billing Sy Thi will ow the Dip  to requet tnt to  and rchant’  All tnt requet mut be ent to the Card Poting and Billing Sy,1
+162,The Disputes  shall ensure that only users with the appropriate access level are allowed to initiate dispute .,1
+163,Only  with Update  must be able to initiate dispute requests.,1
+164,The Disputes application shall ensure that only authorized users are allowed to logon to the application.,1
+165,All authorized    must be  to n to  Disputes System,1
+166,The Disputes System  generate a User Report that details any   that have been added and any changes to an existing user’s access level. The  will be reviewed for auditing purposes.,1
+167,All       to uer’ acce h be recorded on the Uer Report.,1
+168,If a   is   can only be re-iated  the System Administrator.,1
+169,Oly the System Admiistrator  be  to reset a revoked user  accout,1
+170,The Disputes   manipulate and view business data Users will   direct access to data files or ,1
+171,All updates to data files or    initiated from the Disputes System.,1
+172,The Disputes  must conform to the legal requirements as specified by the Merchant Operating Regulations.,1
+173,All  rules  in the Disputes System sh  in compliance with the Merchant Operating Regulations.,1
+174,Th Disputs  must conform to th lgal rquirmnts as spcifid by Rgulation E and Rgulation Z that govrn crdit card disputs procssing.,1
+175,All  ruls  in th Disputs Systm sh  in complianc to th guidlins of Rgulation E and Rgulation Z.,1
+176,The Disputes   maintain a detailed history of   that a user takes on a dispute case. This ensures a complete audit trail if questions arise later on with regard to a particular dispute case.,1
+177,All  that     case must be recorded in  case history.,1
+178,The Disputes System must be accessible by both internal and external users.,0
+179,The Disputes System must prevent users from ing any dispute cases that do not belong to their card base.,0
+180,The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.,0
+181,The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.,0
+182,The Disputes System  provide view access capability for authorized users of the application.,0
+183,The Disputes System  provide update access capability for authorized users of the application.,0
+184,The Disputes System must allow the users to select disputable s based on the age of the  from a user   initiate a   retrieval request or chargeback notification on the selected .,0
+185,The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that  to a single merchant.,0
+186,The Disputes System  provide the user the ability to create or initiate a ticket retrieval  As part of ticket retrieval creation  the   prompt the user to enter all the required information to create the ticket retrieval  The ticket retrieval  is a document that is sent to merchant inquiring the validity of a transaction,0
+187,The Dipute Sytem mut allow the uer to create three unique type of ticket retrieval . The three type of ticket retrieval   ( Requet   receipt (2 Requet  a copy of the receipt or (3 Requet  a portfolio. A portfolio conit of documentation that would provide proof of a purchae uch a the documentation that i received from a car rental agency that i more than a ale receipt.,0
+188,The Disputes System must prevent external users from requesting original receipts. Requests for original receipts are restricted to internal users.,0
+189,The Disputes System  allow the user to create or itiate a back . The    the user to enter the required  to itiate a back . The back    a  back  that is sent to  dicatg that their account will be d back if no oof is ovided that the dispu transaction is valid.,0
+190,The Disputes System  prevent the creation of duplicate dispute requests 100% of the .,0
+191,The Disputes System  accurately provide a list of possible reason codes for a given transaction The list of possible reason codes must be derived based on the type of transaction and the industry that the   to according to the business rules defined for the Disputes System,0
+192,The Disputes System must provide the ability to view existing dispute cases.,0
+193,The Disputes System  povide Seach functionality The seach thod  clude the ability to seach by (1) the dispute case nu (2) the chant account nu (3) the  account nu and (4) the  nu In  to the above  the seach functionality  futhe allow the use to limit the esults of the seach by a date ange the type of dispute (ticket etieval equest o chageback notification) the case status (open closed o all) and the dispute eason ,0
+194,A list of all disputes cases that meet the entered search criteria must be provided to the user. The list of cases must differentiate the type and/or status of the case by color -coding the line item in the list. For example all open cases  be yellow and all closed cases  be .,0
+195,The Disputes System  provide the users the ability to view the history of all  that   on the  .,0
+196,The Dispute System  provide the s with the ability to follow up on a dispute case via follow-up  The  of  follow up  for a  dispute case must be filtered by the status of the case  the access  of the ,0
+197,The Disputes System  recd the name of the user and the date f any activity    modifies the   in the  A detailed histy of the    the   the date and the user  perfmed the acti must be maintained f auditing purposes,0
+198,For any systematic (non-   that occurs on a case such as the  aging  a case   be generated Upon the  logon the  that  the  case must be notified that a systematic  has occurred on the  case,0
+199,All    be ted according to guidelines specified by the Print Letter Utility .,0
+200,Any disputes cases that have  closed for over 6 months must be d from the online disputes database.,0
+201,The   support Internet Explorer . and above.,1
+202,The    Molla Firefo .0 and above.,1
+203,The  shall interface with the Choice Parts System. This provides the feed of recycled  .,1
+204,The  shall run on the existing hardware for all .,1
+205,The  shall adhere to the corporate Architecture ,1
+206,The product shall comply with corporate User Interface Guidelines,1
+207,The  shall comply with corporate color scheme,1
+208,The  of  product shall  ,1
+209,The product shall be easy to use by Adjusters and Collision Estimators. 95% of Adjusters and Collision Estimators shall find the product easy to use.,1
+210,The  shall increase iv of Collision Estimators. 80% of the Collision Estimators shall agree their iv has increase within 1 month of using the .,1
+211,Users  feel satisfied using the . 85% of all  will be satisfied with the .,1
+212,The  shall  easy    Adjusters and Collision Estimars. The  shall  ed with two  onsite training,1
+213,The     instructions while using the product User  can be found within 90 of the ,1
+214,The  for recycled parts shall take no longer than 15 seconds. The   shall be returned in under 15 seconds.,1
+215,The  for the preferred repair facility shall take no longer than 8 . The preferred repair facility  returned within 8 ,1
+216,The    report shall  returned to the user within  . The  report shall  returned within  .,1
+217,The preferred repair facility   be saved within 5 . The save  occur within 5 .,1
+218,The  shall adhere to the corporate online availability schedule The   brought down  within 98% of the scheduled outages  the availability schedule,1
+219,The  shall achieve a 98% up. The  shall not fail more than 2% of  available online .,1
+220,The   be able to handle up to 1500 simultaneous users. The   perform with 1500 users as a time.,1
+221,The average number of recycled parts records per day shall be 50 000.,1
+222,The  shall be  to handle 10 000 concurrent users within 2 years of the initial .,1
+223,For esttors      to  operated in a repair facility during dirty and  .,1
+224,The  shall interface with the ChoiceParts system once per day at approximately : AM.,1
+225,The maintenance of the  will fall within the established corporate maintenance .,1
+226,The   be supported using the corporate support .,1
+227,Product  and  shall  handled by the  technology team within established launch time frames.,1
+228,Only er  requet recycled part audit report No uer without an er role  requet recycled part audit,1
+229,Only ers with a supervisor role can update preferred repair facility ratings. Users without the supervisor role cannot access the repair facility ratings.,1
+230,Only collision  shall search for recycled parts Users without the collision  role shall   access to the search for recycled parts,1
+231,Only    be entered into the  No    be entered into the ,1
+232,One insurance      to view er insurance s  data.,1
+233,The  shall free of computer viruses.,1
+234,The   prevent malicious  including  of service.,1
+235,The  mut comply with Sarbane-Oxley.,1
+236,The   comply with the atics  relating to recycled parts usage.,1
+237,The   comply with insurance regulations regarding claims .,1
+238,The   search for the preferred repair facility usg    and radius  miles,0
+239,The vehicle data  include vehicle year make and model,0
+240,The  location  include street address city state  ,0
+241,The   resolve the code for the street address city and state if code is unknown,0
+242,The search   be between 1 and 30 ,0
+243,The system  locate the preferred repair facility with the highest ratings for the input ,0
+244,The er  enter the preferred repair facility on the estimate .,0
+245,The    able to ovr the prefred repair fality on the estimate .,0
+246,The  repair facility  be returned to  .,0
+247,The system  return a list of repair facilities within the radius if the preferred repair facility cannot be .,0
+248,The   search for available recycled parts using damaged vehicle parts .,0
+249,The tor  search for available recycled parts using a list of preferred parts suppliers.,0
+250,The   search for available recycled parts for the supplied vehicle parts and .,0
+251,The ator  search by  with a radius of 30 miles if no parts are found for the preferred parts ,0
+252,The system  retain the available recycled parts and suppliers returned from the .,0
+253,The available       shall be returned to  user.,0
+254,The im  apply selected recycled parts to the collision imate.,0
+255,The   not apply recycled parts to the collision ate if no available parts are .,0
+256,The er  review the collision .,0
+257,The er  request a recycled parts  of the collision estimate.,0
+258,The recycled  search     imar shall be retrieved by  system.,0
+259,The system  generate an audit report based on the available recycled parts and the collision .,0
+260,The  report  include the total number of recycled parts used in the ,0
+261,The    include the number of available recycled parts from the original search .,0
+262,The    include the percentage of available recycled parts used in the  ,0
+263,The    include the total score of the  which sums the ivual line .,0
+264,The    be displayed to  .,0
+265,The    be available to or ers at later points in .,0
+266,The user  select to view the preferred repair facility .,0
+267,The  repair    be displayed to the .,0
+268,The system will display a blank set of ratings if there are not ratings yet defined.,0
+269,The user  enter new ratings based on the audit ,0
+270,The   be from a scale of 1,0
+271,The    categories  attempted use of recycled parts and actual use of recycled parts,0
+272,The    to save the preferred repair facility .,0
+273,The preferred     be saved by the system.,0
+274,The product  work with most database management systems (DBMS) on the market whether the DBMS is colocated with the product on the same machine or is located on a different machine on the computer .,1
+275,The  will function alongside server software on any operating system where the Java  can be installed.,1
+276,The product will require collaboration with a database management system (DBMS). The DBMS may be located on the same machine as the product or on a separate machine residing on the same computer network.,1
+277,The   make use of web/application server . Open  examples  Apache web server Tomcat and  JBoss application server.,1
+278,A database management  such as Oracle DB MySl or HSQL will need to be integrated with the product.,1
+279,The ’ Look and Feel   able to incorporate ct of the cutomer’  uch a logo branding and identity,1
+280,The  shall have a conservative and professional .,1
+281,The product shall make the users want to use it. 80% of the users surveyed  they are regularly using the product after the first 2  -.,1
+282,The  shall be easy to use. 90% of  will be able to successfully reserve a conference room within 5 minutes of  use.,1
+283,The product shall give users feedback when  80% of the users surveyed  that the product accurately confirms their actions,1
+284,The   allow the  to select a chosen language from one of the target market countries.,1
+285,The  shall allow for i of start page and views .,1
+286,An  will be  to successfully use the product within a few minutes After informally navigating the product for less than 15 minutes  shall be  to successfully setup meetings and reserve conference rooms,1
+287,The  shall use a standard navigation menu familiar to most web .,1
+288,The  shall allow for intuitive  of available conference rooms.,1
+289,The  shall conform to the Americans with Disabilities Act.,1
+290,The response shall be fast enough to avoid interrupting the user’s flow of thought. 0% of tasks shall complete   seconds. % of tasks shall complete   seconds.,1
+291,Aside from       achieve .% up .,1
+292,The product  create an exception log of problems encountered within the product for transmission to our company for analysis and resolution.,1
+293,The     of handling up to 1 000 concurrent  This numr  increase to 2 000  Release 2 The  capacity must   to   scheduling  such as early  and  afternoon ,1
+294,The   be  to process 10 000 transactions per hour within two years of its  This number  increase to 20 000 by Release 2,1
+295,The  shall be  to operate for at least 5 years for each customer .,1
+296,The  shall  used in  .,1
+297,The product    to interface with any HTML brower The product  tranmit data tween the uer and the product   The product  diplay HTML properly in 80%  all HTML brower teted ( i to tet 8 brower),1
+298,The   be able to interface with various database management systems The  shall communicate successfully with the database management system on 100% of all transactions,1
+299,The    able to interface with various email  The    able to send email,1
+300,The  shall be available for distribution via the Internet as a binary or ZIP file.,1
+301,The  shall  available for distribution as a  CD.,1
+302,The  will  available f licensing as a one-server two-five servers  five--me servers license.,1
+303,A new  must be  to be added to the system within 10 . 90% of new s   to log into the system within 10 .,1
+304,The product  be designed using Design Patterns and coding best practices. 90% of maintenance  developers are  to integrate new functionality into the product    .,1
+305,The product    congur for ue with variou databae management ytem for the end uer 80% of end uer are  to integrate new databae management ytem with the product without changing the product’  ,1
+306,Maintenance  will be offered to customers once a year. The  shall  no longer than 5 minutes for 80% of the customer base to .,1
+307,Every registered user will have access to the product’s support site via the Internet. 70% of registered users shall find a solution to their problem within 5 minutes of using the support site.,1
+308,The customer  be  to easily integrate new building maps with the product throughout the product’s  Integration of new maps with the product  be possible with little to no support from product support ,1
+309,The  hall  tranlated into foreign  other than the target market rie’  in  releae For each emerging target market it hall take  more than 5  to gure the  for that market’ ,1
+310,The  is  to integrate with mutipe database  . The   operate with Orace SQL Server DB MySQL HSQL and MS Access.,1
+311,The    able to  installed in any operating environment within  .,1
+312,Th  sh  that only company mploys or xtrnal s with companyapprovd  IDs may hav  . 100   logons sh b by ir company mploys or xtrnal s with companyapprovd  IDs.,1
+313,Only managers are  to perform search ries for reservatio by . 100 of all search ries for reservatio by   be from  of   .,1
+314,The     the databe’s data corresponds to the data entered by the  Each    in the system will contain the same information  w entered by the ,1
+315,The  shall prevent the input of malicious data The  and/or adjacent hardware/software systems’ data shall  100% uncorrupted each time malicious data is input into the ,1
+316,The  or dependent lesems shall remain  as a result of the input of malicious data The  or dependent lesems shall not crash 100 of the time that malicious data is input into the ,1
+317,The   have the  to receive automatic stware updates as new  emerge. 100   will be able to receive automatic stware updates transmitted to the installed .,1
+318,The language of the   accommodate all of the target market countries 90% of survey  from each target market country will find that the language of the  is ,1
+319,The  shall be  to dplay calendar dates and times according to the user’s locale.  of survey respondents from each target market country will find that the date and time formatting of the   .,1
+320,The    developed with the JSE/JEE programming language libraries,1
+321,The  shall record meeting entries.,0
+322,The  will not employees of meeting invitations.,0
+323,The   have   to send meeting s to .,0
+324,The    the organizers contact  to each meeting they create.,0
+325,The product  record meeting ments.,0
+326,The product  store new conference rooms.,0
+327,The   update existing conference rooms.,0
+328,The   be  to  conference rooms.,0
+329,The product  be able to store new room .,0
+330,The product will update existing room equipment.,0
+331,The product  be  to   equipment.,0
+332,The    an organizer to invite or employees to meetings.,0
+333,Each time a     the     be upd to reflect the time   of the reservation.,0
+334,The product  record the transportation  of equipment .,0
+335,The  shall display a map of the  building showing conference room locations.,0
+336,The   record updated meeting agendas.,0
+337,The product  send a meeting  to  meeting organizer.,0
+338,The product shall display room equipment according to search parameters.,0
+339,The  shall display conference rooms  to  parameters.,0
+340,The product  record different meeting types.,0
+341,The   record all the  that has been .,0
+342,The product  not building  of  transport requests.,0
+343,The  will allow d users to view meeting schedules in multiple reporting views.,0
+344,The    able to send meeting notifications via different kinds of end-user specified methods.,0
+345,The  shall have a ible Look and Feel.,0
+346,The  shall have an intuitive user .,0
+347,The   display an available  for unreserved conference rooms.,0
+348,Recreation of Inventory Quantity Adjustment for the period of previous 30 days   no more than 30.,1
+349,The System  allow for a minimum of 6 users  work at the same .,1
+350,The System  utilize currently owned computer equipment.,1
+351,The System  be  to automatically backup business data and restore them on demand.,1
+352,The System  maintain consistent security Any changes in user s andor s  take affect in all parts of the System,1
+353,The Sytem  gran control acce right to all major  It hould be poible to aign acce right to all  independent,1
+354,The System  meet all applicable accounting  The   of the System must successfully pass independent audit performed by a certified ,1
+355,The System  not require additional third party licenses resulting in  fees.,1
+356,The System  allow generation of Inventory Quantity Adjustment documents on .,0
+357,The System  allow on demand  of all Inventory Quantity Adjustment documents since certain point of time.,0
+358,The IQA system  take into account current inventory status and adjust inventory  stitutionary  .,0
+359,The System  allow entering storing and modifying product .,0
+360,Product   allow use of semi-s    .,0
+361,Product    allow defining substitutionary .,0
+362,Product  ary ingredients shall be entered automatically by the PFE subsystem.,0
+363,Formula ary   be kept in persisted ,0
+364,Product  allow entering storing and modifying product menus used by POS .,0
+365,PME Subsystem   building product s based on the list of   in the accounting system.,0
+366,PME Subsym  allow keeping menus within menus and products within menus in a managed and persid order.,0
+367,PME Subsym  allow for a  to  in more than one ,0
+368,The RMS System shall have Windows XP look and feel and use GUI futures making its use intuitive.,0
+369,The System  generate Inventory Quantity Adjustment document based on product daily sales data and product formulas.,0
+370,The System  generate Inventory Quantity Adjustment document automatically when daily Product Sales data is available.,0
+371,Admistrator  be  to activate a pre-paid card via the Admistration   under  .,1
+372,Customer  be able to check the  of their prepaid card by  in the PIN number in under 5 seconds.,1
+373,System  let customers register on the website  a “pay   ”  in under  .,1
+374,System  let customes egiste on the website  a “ movie subscibe” use in unde  .,1
+375,System  let existing customers log into the website with their email address and  in under 5 .,1
+376,System  let customers cancel their account process   no longer than   Database will mark the account as  and  will   able to log into the ,1
+377,System  let administrator de-activate a  account in    Customer will   be able to  the ,1
+378,System shall let administrator add/remove s on the website in under 5 minutes. Entered  information will be stored in the database and will now be available on the website.,1
+379,System shall let the administrator add/remove categories on the website in under 5 minutes.,1
+380,System  let In Manager access sales and usage statistics  under  s.,1
+381,System  let administrators generate unique pre- pins in   minutes and generate an Excel  with the generated PINs.,1
+382,The  shall be attractive to all  The  shall appear to be fun and the colors should be bright and vibrant,1
+383,The website should have an African feel but should not alienate non-Africans The website should use animation on pages which are describing the services to grab the users attention and encourage them to  ,1
+384,The   should  modern clean  cise.,1
+385,The     to  used by 90% of novice users on the Internet.,1
+386,Users    to navigate through a maximum of 4 pages to create an account with the .,1
+387,Users should be able to access their streamg movies  under 2 clicks after loggg to the website.,1
+388,An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the .,1
+389,An anonymous  will show that 95% of customers are comfortable using and purchasing pre-paid cards after a  of using  .,1
+390,The   retain the customer’s buying preferences and .,1
+391,The   be easy for customers    on  Internet to purchase and watch   Customers should be able to purchase and watch a pre-determined  in under  ,1
+392,The  shall use symbols and words that are naturally  by users familiar with websites,1
+393,The  will use standard Internet conventions when interacting with the user.,1
+394,Any  between a  and the   shall have a maximum response time of  seconds unless noted by an  below.,1
+395,When purchasing a streaming movie or pre-paid card via credit card the processing time should have a maximum response time of  .,1
+396,When treaming a movie the buffering time hould take no lger than 10 eco (plu    the uer’ .,1
+397,While treami a  i hould onl occur if there i  in the uer’ .,1
+398,All    will be secured on the  and only accessible by authorized Izogn  Information will be encrted in the ,1
+399,The  shall be available for use 24 hours per day 365 days per year.,1
+400,The  shall achieve .% up .,1
+401,All   be streamed on demand at any time of the .,1
+402,The   continue to operate if the streaming server goes down.,1
+403,The   continue to operate if the payment gateway goes down.,1
+404,The streaming server will support 50 simultaneous streaming connections.,1
+405,The  will support a maximum of 1 000 simultaneous .,1
+406,The website  be capable of supporting 100 000 .,1
+407,The  shall be  to operate within the maximum maintenance budget for a minimum of  .,1
+408,All aspects of   sh  accessed by a web browser over  Internet.,1
+409,The    the   will be used to support the  system.,1
+410,We    to interface with the following : IE .X . Net . 7. . and Firefo ..,1
+411,Website must interfa with the CyberSour API to pross credit card transactions.,1
+412,Website must  fully operational with MSN TV2.,1
+413,Movies shall be encoded and streamed via Windows Media Player ..,1
+414,Movies shall be encoded for  and 2 streams.,1
+415,Promotional  to the   take a day to .,1
+416,Izogn Administrator must be able to update the category listings on the website within 2 minutes.,1
+417,Izogn Administrator must be able to add new products to the  within 2 .,1
+418,The  will provide a 24 hour 800 toll free  for support to its customers.,1
+419,The  will provide a help section with answers and solutions to common problems.,1
+420,Ve saff   avalable fr phne ppr ween - M-F  prvde echncal ppr   Izgn admnsrars.,1
+421,The  shall be  to be installed in the specified environment within 1 working .,1
+422,Only registered customers can purchase streaming movies.,1
+423,A customer can only stream a movie if they purchased it and are within the 2 day viewing period.,1
+424,Only  personnel  access customer records in the database.,1
+425,Only administrators  activate a pre-paid card.,1
+426,Only  personnel  access sales information.,1
+427,The  shall prevent its data from being corrupted when incorrect data is entered in.,1
+428,The    itself from intentional abuse and  the administrator at  occurrences.,1
+429,Data integrity scripts will  run on a weekly basis  verify the integrity of the .,1
+430,The website shall make its user aware of its information practices before collection data from them via a Privacy Policy accessible on all pages of the website.,1
+431,The   not customers  changes to its  policy.,1
+432,The    private information only in compliance with the organization’s information .,1
+433,All   will be stored on a secure database accessible only to authorized personnel.,1
+434,All    will be ented in the database.,1
+435,The streaming   have anti-virus software to prevent infection of  .,1
+436,The website should cater to all tribes in Nigeria.,1
+437,The      to religious or ethnic groups.,1
+438,The  should appeal to all Africans not only Nigerians.,1
+439,The  should use Flash to provide animation on the home page.,1
+440,IzogMo  meet the licesig requiremets set forth by the appropriate orgaizatios i order to stream Africa mo.,1
+441,The  ill comply ith WC standards.,1
+442,The PHP  will comply with PEAR .,1
+443,The    customers to search for movies by title actor or director.,0
+444,   detils the  will disply the s description ctor nd director entered in  the dministrtor.,0
+445,Website   and ize credit  payment before allowing a user to stream a .,0
+446, b abl to stram rchasd movi via Windows Mdia Playr for up to 2 days r rchas dat.,0
+447,Website  allow customers to browse movies by categories entered in by izogn .,0
+448,Website  allow customers to view  of selected movies by other customers.,0
+449,Website  allow customers to add their own movie review for a selected movie.,0
+450,Website  allow the In administrator to approve a review posted by a .,0
+451,System  allow customers to pay for a streaming movie with a pre-paid .,0
+452,Website  allow customers to purchase pre-paid cards of $5 $10 or $20 value either by credit card or mail-in payment .,0
+453,System  automatically update the main page of the website every Friday and show the 4 latest movies  have been added to the website.,0
+454,System  allow users to update their billing and contact information via the “My Account” section of the website.,0
+455,Pre   be distributed via email or via a printed paper .,0
+456,Only registered customers can purchase streaming movies.,0
+457,Movies can only be streamed if the customer has purchased a movie and is within the 2-day time period to stream the movie.,0
+458,Website must be  to support free trial periods with various parameters set by the Izogn Manager.,0
+459,All    will be logged in the  and accessible by the .,0
+460,All  customer   be stored and maintained in the database even after the customer s their account.,0
+461,Daily    be logged and accessible by the administrator.,0
+462,The   have free access to all of the streaming .,0
+463,No   will complete in a time period longer than 25 seconds for 97% of all s .,1
+464,For leads that  longer than 25  the  will record the event  ,1
+465,The process must fit within the processing time conditions set forth by the Auto Rep Assignment process in which a lead is assigned within 3 minutes of the total life cycle.,1
+466,The    will operate within the established physical web service structure.,1
+467,The    use a non binding neutral data  such  xml when receiving and ing lead data.,1
+468,Defect  will be available to technical units on a  .,1
+469,Washing  will be updated during scheduled maintenance .,1
+470,The   verify the invalid .,0
+471,Vendor   a credit validation  to be applied to the enterprise billing system.,0
+472,If a lead    the   the system will supply the lead data and score  the enterpre system.,0
+473,The leads  functionality  validate all leads received by the web service for valid ,0
+474,The leads washing functionality  insert all leads captured by the web service.,0
+475,If       high   n it will be process by  ARA functionality.,0
+476,If the   falls  the  average   will be set for manual verication by an Enrollment Coordinator through the e system.,0
+477,If the     the low  then it will be returned to the supplying vendor,0
+478,The leads washing  will  both contact and academic scoring information for a total .,0
+479,The   functionality will use the parameters supplied by corporate and schools to score part of the .,0
+480,The leads washing functionality will return the lead data supplied to the vendor along with the reason of rejection.,0
+481,The   functionality  have an  in which lead data parameters can  maintained.,0
+482,The   functionality  verify the users authentication and rights to make  updates.,0
+483,The  washing functionality  store any potential lead s returned by the enterprise .,0
+484,Prior to ting the lead to the enterprise system the  washing functionality will assign the lead to an admissions rep.,0
+485,The  wahing functionality  receive a period lit of available  from the enterprie ytem.,0
+486,The  shall simulate the look of ships at .,1
+487,The  shall display the s within a circle as a view from a is.,1
+488,The  shall display each type of ship in a grid using an image of the specific type of ship.,1
+489,When the offensive   a  the  shall simulate the sound of a ship at .,1
+490,When a shot is marked as a  the  shall simulate the sound of a shot ing its target.,1
+491,When a shot is marked as a hit the  shall simulate the sound of a shot hitting its .,1
+492,When a ship is sunk the  shall simulate the sound of a sinking ship.,1
+493,The   be available 24 hours per day seven days per week.,1
+494,The    to handle a large number of  .,1
+495,The  time shall be fast enough to maintain the flow of the game. The  time shall be no more than 2 seconds for 95% of s and no more than 4% for the remaining s.,1
+496,The   protect the identity of the s. The   provide s no access to information that might reveal the identity of another .,1
+497,The   be intuitive and -expl Nine out ten   be able to successfully complete a game with no training,1
+498,The product shall be available to players who understand English Spanish and French The product shall allow the user to select the language upon ing the product,1
+499,The  shall provide s no access to information that might reveal the identity of another ,1
+500,The  time shall be fast enough to maintain the flow of the game. The  time shall be no more than 2 seconds for 95% of s and no more than 4% for the remaining s.,1
+501,The product shall maintain a list of players.,0
+502,The   allow a user to identify himself or herself as a ,0
+503,Once a game has been initiated the product shall make the players assigned to the game unavailable for selection from the list of players.,0
+504,The   allow a user to remove himself or herself from the list of players at any time.,0
+505,The product shall make inactive players unavailable for selection from the list of players.,0
+506,The  shall remove players who have been inactive for 24 hours from the list of players.,0
+507,The product  allow a player to initiate a game by selecting another available player from the list of .,0
+508,Once a game is initiated the   display a defensive grid to each ,0
+509,Once a game is initiated the   display an offensive grid to each .,0
+510,The   prevent a player from viewing the offve or ve  of the  player,0
+511,Once a game i initiated the product  allow each player to poition their 5 hip on their repective defenive .,0
+512,The   allow a player to position ships horizontally on their .,0
+513,The   allow the player to position ships vertically on their .,0
+514,The   allow the player to position ships ly on their grid,0
+515,The   prevent the player from overlapping ships on their .,0
+516,When both  have poition  5  on    the product hall define the tatu of each player for the firt .,0
+517,For each turn the product  identify one player as offensive status and one player as defensive status.,0
+518,The product shall maintain the status of each player for a turn either offensive or defensive.,0
+519,At  start of each turn    not each player of his or her .,0
+520,For  turn the product  allow the offensive player to define a shot.,0
+521,For each shot the product shall examine the defensive grid of the defensive player to determine whether the shot was a hit or miss.,0
+522,For each shot the product  not the players whether the shot was a hit or miss.,0
+523,For  shot the   mark the shot as a hit or miss on the defensive grid of the defensive .,0
+524,For each shot the product  mark the shot as a hit or miss on the offensive grid of the offensive .,0
+525,When the   in sinking a ship the   not the players that the ship was sunk.,0
+526,When the hit  in  a ship the   mark the ship as sunk on the defensive grid of the defensive .,0
+527,When the   in sinking a ship the   indicate the type of ship sunk on the defensive grid of the defensive .,0
+528,When the hit  in sinking a ship the   mark the ship as sunk on the offensive grid of the offensive .,0
+529,If the shot was  as a hit the product  allow the offensive player to define a shot.,0
+530,If the shot was marked as a miss the   change the status of the offensive player to defensive,0
+531,If the shot was marked as a miss the   change the status of the defensive player to offensive,0
+532,The product  continue to assign turns until the game is ended.,0
+533,The    a game when a hit by the offensive player results in sinking the lt of the defensive players ships which had not been previously marked  .,0
+534,The   allow a player to end a game at any time during the game.,0
+535,When a game is  the product  not the  that the game is .,0
+536,The   the game    the reason the game is ended (i.e. a player has won the game or a player has ended the game).,0
+537,When  gme   the product  llow ech plyer to identify himself or herself s n vilble plyer in the lt  plyers.,0
+538,When a game  ended the product  allow each player to remove himself or herself from the lt  .,0
+539,The system   easy to use by callers and supervisors Callers and supervisors must   to accomplish any system task within  ,1
+540,The system   easy to learn by s and . Callers and   learn how to use the system within  .,1
+541,The     At the DePaul TeleServices Center  a supervisor uses the  to view a s  the  response time must  no more than 2 seconds % of the time and no more than 5 seconds the rest of the time,1
+542,On a  connection the  response  for all operations must  no more than 6 seconds 90 of the .,1
+543,On a     the  response  f all operations must be no me than 3 seconds 90 of the .,1
+544,The  shall have high availability every day of the year.The  must be available for use between :AM and 6:PM all days of the year.,1
+545,The     for  tween :AM and :PM all days of the year.,1
+546,The  shall  internet  independent.The   run using Internet Explorer and Netscape Navigator.,1
+547,The  shall ensure that only supervisors can advertise empty time The   ensure that supervisors are allowed to access advertise empty time ,1
+548,The  shall ensure that only supervisors can enter a caller’s scheduleThe  must ensure that supervisors are allowed to access advertise empty time slots,1
+549,The  shall ensure that only supervisors can view schedule of all callers.The   ensure that supervisors are allowed to access advertise empty  slots.,1
+550,The interface shall have a simple look In the interface and bility  90% of beta ers must report that the interface is adequately simple,1
+551,The interface shall be appealing to callers and supervisors. In the interface and usability survey 80% of beta testers must report that the interface is appealing.,1
+552,The   provide GUI  Monitoring ServicesSystem Administrators  monitor message exchanges  predict and  problems and  also provide internal and external support,1
+553,The  shall comply with City of Chicago Application Development Guide Framework.Application Development Framework will provide structured Graphical User Interface.,1
+554,The  shall provide Monitoring Services.The  shall  easy for System Administrators and DBAs to use after two   .,1
+555,The  shall provide Error Tracking Services.The  shall help the System Administrators and DBAs to resolve transaction errors 99 of the .,1
+556,The  shall provide Portals.The  shall help System Administrators to analyze the transactions with ad-hoc reporting  KPIs Key Performance Indicators,1
+557,The  shall provide As MessagingThe  shall provide  messaging to enable parallel processing and reduce the overhead in ,1
+558,The product shall provide Multi-ing and Load BalancingThe product shall provide multi-ing technology as well as load balancing to overcome data load spikes and ,1
+559,The  shall process messages within 2 .The  shall have a maximum message  time of 2 ,1
+560,The  shall poll the system for messages every .The  shall poll the system for new messages at a maximum of every  .,1
+561,The   provide Dynamic Change Support and Tranparent reource The   upport Tranparent Reource  and Dynamic Change upport to provide bility and avoid   of more than  ,1
+562,The   be available 99% of the time Rationale To avoid service interruption during busiest customer service response  The   be available 9% of the time for  business ,1
+563,The  shall be .The  shall have fault avoidance based on  .,1
+564,The  shall  robust with fault toleranceThe  shall have fault tolerance by using recovery technique pensatory transaction and  around failures,1
+565,The   be  to process all The   process minimum of 1 million   ,1
+566,The  shall   independent.The  shall enable access to any type of development  and .,1
+567,The    CSR and Datastream.The   exchange messages between CSR and EAM on a real time basis without any direct s between two systems.,1
+568,The   continue to operate during upgrade change or new resource The   be able to continue to operate with no interruption in service due to new resource s,1
+569,The  shall be updated on a regular basisThe  will have a new major feature introduced every  months and quarterly maintenance releases every  months,1
+570,The  shall operate with every .The  shall accommodate any new technology without any change in  .,1
+571,The  shall have The  shall provide authentication and authorization,1
+572,The   information Security The   enable privacy by encryption WS-Security  Integrity Checking,1
+573,The   have audit The   store messages for a minimum of one year for audit and transaction tracking ,1
+574,The   use IBM and CCR branding  The  must have one IBM logo and one CCR logo,1
+575,The   be display on any work computer a CCR user may have The  interface  be formatted to display at 800 by   resolution,1
+576,The system  will use CCR nomenclature The system must use the same nomenclature used in the existing WCS system and ,1
+577,The  must marize the data in a fashion that’s appealing to CCR management Every  type must have at least one high level mary shown in the  dashboard,1
+578,The  must use a point and click interface  of   and navigation  must be  to be activated/selected by either a  or a ,1
+579,The   be easy to use. 90% of  should be able to successfully use the system to generate a report on their first use. The  should  to IBM  .,1
+580,Rrorts  be easy to generate orts  be generated within one button click and exported within one button click after  the rort,1
+581,A   be  to use the system without instruction after a short amount of . After one use a  should understand and remember 90% of the system usage and .,1
+582,All CCR uses  eceive taining befoe the WCS system is  One taining session will be held fo 100% of CCR uses befoe system  (based on a CCR use being available),1
+583,The WCS   use appropriate nomenclature and terminology as defined by the Corporate Community Grants organization All  and reports will undergo  tests by CCR users,1
+584,The WCS  hall be available at all time a long a IBM’ internal  W i . The WCS   be available 95% of the time IBM’ internal  W i available.,1
+585,The WCS   have the ability to connect other designated WCS databases currently not included in the .,1
+586,The WCS ytem   the ability  include data for region ide the United State and  eed by uer ide of the United State if approved by CCR management.,1
+587,The WCS  shall  run in a Windows  The WCS shall  accessed by users through the Internet on an IBM computer running a Windows 2000 or above operating ,1
+588,The Br portn of the WCS  mt   to export  in preadheet form Microoft Excel and Lot  ). Br will provide btton in the  intface that prodce/export report in . or .  .,1
+589,The WCS    queie o he WCS daabae once again (on a pecified da) o updae he available daa available o CCR ue Queie   made o exenal daabae fo daa efeh once a week,1
+590,All   and addition to the WCS y h  updated in the WCS Developer and WCS Uer Guide Every  t  reflected in WCS y ,1
+591,The   only  aessed by authorized Corporate Community Grants (CCR) employees Users must   using ir IBM intranet user name and ,1
+592,The WCS y  not allow automatic in by any uer Cookie containing WCS in  about a uer will not be d on a uer’ ,1
+593,Each team owner  need to ue a name and   order to   to r the team owner’ ,1
+594,The Commissioner   the only authorized user per league to adjust league .,1
+595,Each page  contain a navigation menu which shows the index into which the current page is contained.,1
+596,Each page  contain a similar format with action items in one location and navigation buttons in a different location.,1
+597,The  board  contain the 5 most recently posted s on the league  The s will contain up to the first 150 characters of the ,1
+598,The   ask the user to confirm dropping a player or trading a player before performing the .,1
+599,The     to complete every user transaction within one fourth of a  of receiving the request over the .,1
+600,The   have a down of at most 10 minutes per .,1
+601,The application  run on a web application server.,1
+602,A priry dte  be used to store cched dt for ctive users.,1
+603,A  dtbse  be used to store historicl sttistics nd dt.,1
+604,Applicaion   occur beween 3AM and 6 AM CST on Wednesday orning during he iddle of he NFL season.,1
+605,New System  releases   released at the ginning of each NFL season.,1
+606,98% of the user s shall meet the minimum ware requirements prior to implemen. Minimum Hard Disk Space: MB.,1
+607,98% of the user s shall meet the minimum software requirements prior to implemen: Microsoft Inter Explorer .. Microsoft .NET Framework .. Microsoft Inter Explorer Web Controls,1
+608,The intra  should display appropriately in all resolutions from  and  The display of all the  will be correct in 9% of the resolutions prior to  The remaining % will be corrected within a week of notification of the incorrect display,1

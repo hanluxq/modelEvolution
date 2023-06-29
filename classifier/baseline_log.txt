@@ -1,0 +1,81 @@
+concerns
+            precision    recall  f1-score   support
+Concerns     0.64777   0.67511   0.66116       237
+micro avg    0.64777   0.67511   0.66116       237
+macro avg    0.64777   0.67511   0.66116       237
+
+baseline
+Epoch 1: Train Loss: 0.5949 | Test Loss: 0.5223 | Test Accuracy: 0.7377 | Test Recall: 0.7640 | Test F1 Score: 0.7366
+Epoch 2: Train Loss: 0.3870 | Test Loss: 0.3392 | Test Accuracy: 0.9016 | Test Recall: 0.8970 | Test F1 Score: 0.8989
+Epoch 3: Train Loss: 0.2040 | Test Loss: 0.2674 | Test Accuracy: 0.9016 | Test Recall: 0.9044 | Test F1 Score: 0.9003
+EarlyStopping counter: 1 out of 5
+Epoch 4: Train Loss: 0.1048 | Test Loss: 0.2705 | Test Accuracy: 0.9180 | Test Recall: 0.9187 | Test F1 Score: 0.9166
+Epoch 5: Train Loss: 0.1061 | Test Loss: 0.2600 | Test Accuracy: 0.9262 | Test Recall: 0.9258 | Test F1 Score: 0.9248
+Epoch 6: Train Loss: 0.0466 | Test Loss: 0.2538 | Test Accuracy: 0.9344 | Test Recall: 0.9354 | Test F1 Score: 0.9333
+EarlyStopping counter: 1 out of 5
+Epoch 7: Train Loss: 0.0346 | Test Loss: 0.2631 | Test Accuracy: 0.9262 | Test Recall: 0.9234 | Test F1 Score: 0.9244
+EarlyStopping counter: 2 out of 5
+Epoch 8: Train Loss: 0.0300 | Test Loss: 0.2611 | Test Accuracy: 0.9426 | Test Recall: 0.9426 | Test F1 Score: 0.9415
+EarlyStopping counter: 3 out of 5
+Epoch 9: Train Loss: 0.0251 | Test Loss: 0.2882 | Test Accuracy: 0.9344 | Test Recall: 0.9354 | Test F1 Score: 0.9333
+EarlyStopping counter: 4 out of 5
+Epoch 10: Train Loss: 0.0176 | Test Loss: 0.3147 | Test Accuracy: 0.9262 | Test Recall: 0.9283 | Test F1 Score: 0.9251
+EarlyStopping counter: 5 out of 5
+Early stopping
+Average Test Accuracy: 0.9076 | Average Test Recall: 0.9100 | Average Test F1: 0.9062
+
+
+enhence process 1
+Epoch 1: Train Loss: 0.0995 | Test Loss: 0.2166 | Test Accuracy: 0.9344 | Test Recall: 0.9338 | Test F1 Score: 0.9338
+EarlyStopping counter: 1 out of 5
+Epoch 2: Train Loss: 0.0574 | Test Loss: 0.2249 | Test Accuracy: 0.9262 | Test Recall: 0.9247 | Test F1 Score: 0.9254
+EarlyStopping counter: 2 out of 5
+Epoch 3: Train Loss: 0.0345 | Test Loss: 0.2422 | Test Accuracy: 0.9262 | Test Recall: 0.9280 | Test F1 Score: 0.9258
+EarlyStopping counter: 3 out of 5
+Epoch 4: Train Loss: 0.0292 | Test Loss: 0.2249 | Test Accuracy: 0.9426 | Test Recall: 0.9412 | Test F1 Score: 0.9420
+EarlyStopping counter: 4 out of 5
+Epoch 5: Train Loss: 0.0179 | Test Loss: 0.3135 | Test Accuracy: 0.9180 | Test Recall: 0.9205 | Test F1 Score: 0.9177
+EarlyStopping counter: 5 out of 5
+Early stopping
+Average Test Accuracy: 0.9290 | Average Test Recall: 0.9283 | Average Test F1: 0.9282
+
+enhence process 2
+Epoch 1: Train Loss: 0.3242 | Test Loss: 0.1725 | Test Accuracy: 0.9180 | Test Recall: 0.9138 | Test F1 Score: 0.9166
+Epoch 2: Train Loss: 0.1311 | Test Loss: 0.0908 | Test Accuracy: 0.9508 | Test Recall: 0.9491 | Test F1 Score: 0.9505
+Epoch 3: Train Loss: 0.0673 | Test Loss: 0.0577 | Test Accuracy: 0.9836 | Test Recall: 0.9844 | Test F1 Score: 0.9836
+EarlyStopping counter: 1 out of 5
+Epoch 4: Train Loss: 0.0356 | Test Loss: 0.0609 | Test Accuracy: 0.9754 | Test Recall: 0.9741 | Test F1 Score: 0.9753
+Epoch 5: Train Loss: 0.0294 | Test Loss: 0.0488 | Test Accuracy: 0.9754 | Test Recall: 0.9758 | Test F1 Score: 0.9754
+EarlyStopping counter: 1 out of 5
+Epoch 6: Train Loss: 0.0282 | Test Loss: 0.1158 | Test Accuracy: 0.9590 | Test Recall: 0.9569 | Test F1 Score: 0.9587
+EarlyStopping counter: 2 out of 5
+Epoch 7: Train Loss: 0.0195 | Test Loss: 0.0671 | Test Accuracy: 0.9836 | Test Recall: 0.9844 | Test F1 Score: 0.9836
+EarlyStopping counter: 3 out of 5
+Epoch 8: Train Loss: 0.0182 | Test Loss: 0.0731 | Test Accuracy: 0.9672 | Test Recall: 0.9671 | Test F1 Score: 0.9671
+EarlyStopping counter: 4 out of 5
+Epoch 9: Train Loss: 0.0059 | Test Loss: 0.0677 | Test Accuracy: 0.9672 | Test Recall: 0.9671 | Test F1 Score: 0.9671
+EarlyStopping counter: 5 out of 5
+Early stopping
+Average Test Accuracy: 0.9648 | Average Test Recall: 0.9640 | Average Test F1: 0.9645
+
+enhence process 3
+Epoch 1: Train Loss: 0.1513 | Test Loss: 0.0843 | Test Accuracy: 0.9754 | Test Recall: 0.9773 | Test F1 Score: 0.9753
+EarlyStopping counter: 1 out of 5
+Epoch 2: Train Loss: 0.1165 | Test Loss: 0.1090 | Test Accuracy: 0.9590 | Test Recall: 0.9554 | Test F1 Score: 0.9584
+Epoch 3: Train Loss: 0.0661 | Test Loss: 0.0395 | Test Accuracy: 0.9918 | Test Recall: 0.9924 | Test F1 Score: 0.9918
+EarlyStopping counter: 1 out of 5
+Epoch 4: Train Loss: 0.0186 | Test Loss: 0.0612 | Test Accuracy: 0.9754 | Test Recall: 0.9746 | Test F1 Score: 0.9752
+EarlyStopping counter: 2 out of 5
+Epoch 5: Train Loss: 0.0248 | Test Loss: 0.0576 | Test Accuracy: 0.9918 | Test Recall: 0.9924 | Test F1 Score: 0.9918
+Epoch 6: Train Loss: 0.0161 | Test Loss: 0.0273 | Test Accuracy: 0.9918 | Test Recall: 0.9924 | Test F1 Score: 0.9918
+EarlyStopping counter: 1 out of 5
+Epoch 7: Train Loss: 0.0096 | Test Loss: 0.0391 | Test Accuracy: 0.9754 | Test Recall: 0.9746 | Test F1 Score: 0.9752
+EarlyStopping counter: 2 out of 5
+Epoch 8: Train Loss: 0.0056 | Test Loss: 0.0282 | Test Accuracy: 0.9918 | Test Recall: 0.9924 | Test F1 Score: 0.9918
+EarlyStopping counter: 3 out of 5
+Epoch 9: Train Loss: 0.0063 | Test Loss: 0.0327 | Test Accuracy: 0.9918 | Test Recall: 0.9924 | Test F1 Score: 0.9918
+EarlyStopping counter: 4 out of 5
+Epoch 10: Train Loss: 0.0061 | Test Loss: 0.0335 | Test Accuracy: 0.9918 | Test Recall: 0.9924 | Test F1 Score: 0.9918
+EarlyStopping counter: 5 out of 5
+Early stopping
+Average Test Accuracy: 0.9844 | Average Test Recall: 0.9844 | Average Test F1: 0.9842
